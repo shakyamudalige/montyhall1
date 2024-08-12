@@ -1,0 +1,6 @@
+@MontyHallSimulation_HostAddress = http://localhost:5108
+
+GET {{MontyHallSimulation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

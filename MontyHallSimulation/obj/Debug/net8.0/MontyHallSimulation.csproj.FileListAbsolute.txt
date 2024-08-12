@@ -1,0 +1,99 @@
+C:\Users\ASUS\Desktop\MontyHallWeb\MontyHallSimulation\obj\Debug\net8.0\MontyHallSimulation.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\MontyHallWeb\MontyHallSimulation\obj\Debug\net8.0\MontyHallSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\MontyHallWeb\MontyHallSimulation\obj\Debug\net8.0\MontyHallSimulation.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\MontyHallWeb\MontyHallSimulation\obj\Debug\net8.0\MontyHallSimulation.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\MontyHallWeb\MontyHallSimulation\obj\Debug\net8.0\MontyHallSimulation.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\MontyHallWeb\MontyHallSimulation\obj\Debug\net8.0\MontyHallSimulation.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\Desktop\MontyHallWeb\MontyHallSimulation\obj\Debug\net8.0\MontyHallSimulation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Desktop\MontyHallWeb\MontyHallSimulation\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ASUS\Desktop\MontyHallWeb\MontyHallSimulation\bin\Debug\net8.0\appsettings.json
+C:\Users\ASUS\Desktop\MontyHallWeb\MontyHallSimulation\bin\Debug\net8.0\MontyHallSimulation.exe
+C:\Users\ASUS\Desktop\MontyHallWeb\MontyHallSimulation\bin\Debug\net8.0\MontyHallSimulation.deps.json
+C:\Users\ASUS\Desktop\MontyHallWeb\MontyHallSimulation\bin\Debug\net8.0\MontyHallSimulation.runtimeconfig.json
+C:\Users\ASUS\Desktop\MontyHallWeb\MontyHallSimulation\bin\Debug\net8.0\MontyHallSimulation.dll
+C:\Users\ASUS\Desktop\MontyHallWeb\MontyHallSimulation\bin\Debug\net8.0\MontyHallSimulation.pdb
+C:\Users\ASUS\Desktop\MontyHallWeb\MontyHallSimulation\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ASUS\Desktop\MontyHallWeb\MontyHallSimulation\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ASUS\Desktop\MontyHallWeb\MontyHallSimulation\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ASUS\Desktop\MontyHallWeb\MontyHallSimulation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ASUS\Desktop\MontyHallWeb\MontyHallSimulation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ASUS\Desktop\MontyHallWeb\MontyHallSimulation\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ASUS\Desktop\MontyHallWeb\MontyHallSimulation\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ASUS\Desktop\MontyHallWeb\MontyHallSimulation\obj\Debug\net8.0\staticwebassets\msbuild.MontyHallSimulation.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS\Desktop\MontyHallWeb\MontyHallSimulation\obj\Debug\net8.0\staticwebassets\msbuild.build.MontyHallSimulation.props
+C:\Users\ASUS\Desktop\MontyHallWeb\MontyHallSimulation\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MontyHallSimulation.props
+C:\Users\ASUS\Desktop\MontyHallWeb\MontyHallSimulation\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MontyHallSimulation.props
+C:\Users\ASUS\Desktop\MontyHallWeb\MontyHallSimulation\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ASUS\Desktop\MontyHallWeb\MontyHallSimulation\obj\Debug\net8.0\scopedcss\bundle\MontyHallSimulation.styles.css
+C:\Users\ASUS\Desktop\MontyHallWeb\MontyHallSimulation\obj\Debug\net8.0\MontyHal.D8AEB29F.Up2Date
+C:\Users\ASUS\Desktop\MontyHallWeb\MontyHallSimulation\obj\Debug\net8.0\MontyHallSimulation.dll
+C:\Users\ASUS\Desktop\MontyHallWeb\MontyHallSimulation\obj\Debug\net8.0\refint\MontyHallSimulation.dll
+C:\Users\ASUS\Desktop\MontyHallWeb\MontyHallSimulation\obj\Debug\net8.0\MontyHallSimulation.pdb
+C:\Users\ASUS\Desktop\MontyHallWeb\MontyHallSimulation\obj\Debug\net8.0\MontyHallSimulation.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\MontyHallWeb\MontyHallSimulation\obj\Debug\net8.0\ref\MontyHallSimulation.dll
+C:\Users\oshad\Downloads\MontyHallWeb (1)\MontyHallWeb\MontyHallSimulation\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\oshad\Downloads\MontyHallWeb (1)\MontyHallWeb\MontyHallSimulation\bin\Debug\net8.0\appsettings.json
+C:\Users\oshad\Downloads\MontyHallWeb (1)\MontyHallWeb\MontyHallSimulation\bin\Debug\net8.0\MontyHallSimulation.exe
+C:\Users\oshad\Downloads\MontyHallWeb (1)\MontyHallWeb\MontyHallSimulation\bin\Debug\net8.0\MontyHallSimulation.deps.json
+C:\Users\oshad\Downloads\MontyHallWeb (1)\MontyHallWeb\MontyHallSimulation\bin\Debug\net8.0\MontyHallSimulation.runtimeconfig.json
+C:\Users\oshad\Downloads\MontyHallWeb (1)\MontyHallWeb\MontyHallSimulation\bin\Debug\net8.0\MontyHallSimulation.dll
+C:\Users\oshad\Downloads\MontyHallWeb (1)\MontyHallWeb\MontyHallSimulation\bin\Debug\net8.0\MontyHallSimulation.pdb
+C:\Users\oshad\Downloads\MontyHallWeb (1)\MontyHallWeb\MontyHallSimulation\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\oshad\Downloads\MontyHallWeb (1)\MontyHallWeb\MontyHallSimulation\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\oshad\Downloads\MontyHallWeb (1)\MontyHallWeb\MontyHallSimulation\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\oshad\Downloads\MontyHallWeb (1)\MontyHallWeb\MontyHallSimulation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\oshad\Downloads\MontyHallWeb (1)\MontyHallWeb\MontyHallSimulation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\oshad\Downloads\MontyHallWeb (1)\MontyHallWeb\MontyHallSimulation\obj\Debug\net8.0\MontyHallSimulation.csproj.AssemblyReference.cache
+C:\Users\oshad\Downloads\MontyHallWeb (1)\MontyHallWeb\MontyHallSimulation\obj\Debug\net8.0\MontyHallSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oshad\Downloads\MontyHallWeb (1)\MontyHallWeb\MontyHallSimulation\obj\Debug\net8.0\MontyHallSimulation.AssemblyInfoInputs.cache
+C:\Users\oshad\Downloads\MontyHallWeb (1)\MontyHallWeb\MontyHallSimulation\obj\Debug\net8.0\MontyHallSimulation.AssemblyInfo.cs
+C:\Users\oshad\Downloads\MontyHallWeb (1)\MontyHallWeb\MontyHallSimulation\obj\Debug\net8.0\MontyHallSimulation.csproj.CoreCompileInputs.cache
+C:\Users\oshad\Downloads\MontyHallWeb (1)\MontyHallWeb\MontyHallSimulation\obj\Debug\net8.0\MontyHallSimulation.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\oshad\Downloads\MontyHallWeb (1)\MontyHallWeb\MontyHallSimulation\obj\Debug\net8.0\MontyHallSimulation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\oshad\Downloads\MontyHallWeb (1)\MontyHallWeb\MontyHallSimulation\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\oshad\Downloads\MontyHallWeb (1)\MontyHallWeb\MontyHallSimulation\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\oshad\Downloads\MontyHallWeb (1)\MontyHallWeb\MontyHallSimulation\obj\Debug\net8.0\staticwebassets\msbuild.MontyHallSimulation.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\oshad\Downloads\MontyHallWeb (1)\MontyHallWeb\MontyHallSimulation\obj\Debug\net8.0\staticwebassets\msbuild.build.MontyHallSimulation.props
+C:\Users\oshad\Downloads\MontyHallWeb (1)\MontyHallWeb\MontyHallSimulation\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MontyHallSimulation.props
+C:\Users\oshad\Downloads\MontyHallWeb (1)\MontyHallWeb\MontyHallSimulation\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MontyHallSimulation.props
+C:\Users\oshad\Downloads\MontyHallWeb (1)\MontyHallWeb\MontyHallSimulation\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\oshad\Downloads\MontyHallWeb (1)\MontyHallWeb\MontyHallSimulation\obj\Debug\net8.0\scopedcss\bundle\MontyHallSimulation.styles.css
+C:\Users\oshad\Downloads\MontyHallWeb (1)\MontyHallWeb\MontyHallSimulation\obj\Debug\net8.0\MontyHal.D8AEB29F.Up2Date
+C:\Users\oshad\Downloads\MontyHallWeb (1)\MontyHallWeb\MontyHallSimulation\obj\Debug\net8.0\MontyHallSimulation.dll
+C:\Users\oshad\Downloads\MontyHallWeb (1)\MontyHallWeb\MontyHallSimulation\obj\Debug\net8.0\refint\MontyHallSimulation.dll
+C:\Users\oshad\Downloads\MontyHallWeb (1)\MontyHallWeb\MontyHallSimulation\obj\Debug\net8.0\MontyHallSimulation.pdb
+C:\Users\oshad\Downloads\MontyHallWeb (1)\MontyHallWeb\MontyHallSimulation\obj\Debug\net8.0\MontyHallSimulation.genruntimeconfig.cache
+C:\Users\oshad\Downloads\MontyHallWeb (1)\MontyHallWeb\MontyHallSimulation\obj\Debug\net8.0\ref\MontyHallSimulation.dll
+C:\Users\ASUS\Desktop\montyHall\MontyHallSimulation\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ASUS\Desktop\montyHall\MontyHallSimulation\bin\Debug\net8.0\appsettings.json
+C:\Users\ASUS\Desktop\montyHall\MontyHallSimulation\bin\Debug\net8.0\MontyHallSimulation.exe
+C:\Users\ASUS\Desktop\montyHall\MontyHallSimulation\bin\Debug\net8.0\MontyHallSimulation.deps.json
+C:\Users\ASUS\Desktop\montyHall\MontyHallSimulation\bin\Debug\net8.0\MontyHallSimulation.runtimeconfig.json
+C:\Users\ASUS\Desktop\montyHall\MontyHallSimulation\bin\Debug\net8.0\MontyHallSimulation.dll
+C:\Users\ASUS\Desktop\montyHall\MontyHallSimulation\bin\Debug\net8.0\MontyHallSimulation.pdb
+C:\Users\ASUS\Desktop\montyHall\MontyHallSimulation\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ASUS\Desktop\montyHall\MontyHallSimulation\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ASUS\Desktop\montyHall\MontyHallSimulation\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ASUS\Desktop\montyHall\MontyHallSimulation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ASUS\Desktop\montyHall\MontyHallSimulation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ASUS\Desktop\montyHall\MontyHallSimulation\obj\Debug\net8.0\MontyHallSimulation.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\montyHall\MontyHallSimulation\obj\Debug\net8.0\MontyHallSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\montyHall\MontyHallSimulation\obj\Debug\net8.0\MontyHallSimulation.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\montyHall\MontyHallSimulation\obj\Debug\net8.0\MontyHallSimulation.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\montyHall\MontyHallSimulation\obj\Debug\net8.0\MontyHallSimulation.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\montyHall\MontyHallSimulation\obj\Debug\net8.0\MontyHallSimulation.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\Desktop\montyHall\MontyHallSimulation\obj\Debug\net8.0\MontyHallSimulation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Desktop\montyHall\MontyHallSimulation\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ASUS\Desktop\montyHall\MontyHallSimulation\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ASUS\Desktop\montyHall\MontyHallSimulation\obj\Debug\net8.0\staticwebassets\msbuild.MontyHallSimulation.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS\Desktop\montyHall\MontyHallSimulation\obj\Debug\net8.0\staticwebassets\msbuild.build.MontyHallSimulation.props
+C:\Users\ASUS\Desktop\montyHall\MontyHallSimulation\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MontyHallSimulation.props
+C:\Users\ASUS\Desktop\montyHall\MontyHallSimulation\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MontyHallSimulation.props
+C:\Users\ASUS\Desktop\montyHall\MontyHallSimulation\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ASUS\Desktop\montyHall\MontyHallSimulation\obj\Debug\net8.0\scopedcss\bundle\MontyHallSimulation.styles.css
+C:\Users\ASUS\Desktop\montyHall\MontyHallSimulation\obj\Debug\net8.0\MontyHal.D8AEB29F.Up2Date
+C:\Users\ASUS\Desktop\montyHall\MontyHallSimulation\obj\Debug\net8.0\MontyHallSimulation.dll
+C:\Users\ASUS\Desktop\montyHall\MontyHallSimulation\obj\Debug\net8.0\refint\MontyHallSimulation.dll
+C:\Users\ASUS\Desktop\montyHall\MontyHallSimulation\obj\Debug\net8.0\MontyHallSimulation.pdb
+C:\Users\ASUS\Desktop\montyHall\MontyHallSimulation\obj\Debug\net8.0\MontyHallSimulation.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\montyHall\MontyHallSimulation\obj\Debug\net8.0\ref\MontyHallSimulation.dll
